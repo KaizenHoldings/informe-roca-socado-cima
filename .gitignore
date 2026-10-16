@@ -1,0 +1,7 @@
+# Publicar únicamente los archivos de la página; los materiales de trabajo quedan locales.
+/*
+!/.gitignore
+!/.gitattributes
+!/.nojekyll
+!/README.md
+!/index.html
